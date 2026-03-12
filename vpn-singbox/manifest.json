@@ -1,0 +1,14 @@
+{
+  "id": "vpn-singbox",
+  "name": "Sing-box VPN Toggle",
+  "version": "1.0.0",
+  "author": "lantern",
+  "description": "Bar widget + panel for controlling sing-box via systemctl.",
+  "entryPoints": {
+    "barWidget": "VpnWidget.qml",
+    "panel": "VpnPanel.qml"
+  },
+  "metadata": {
+    "defaultSettings": {}
+  }
+}
